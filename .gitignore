@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw & scored tweet data (potentially sensitive, large)
+data/raw/
+data/scored/
+
+# twscrape local account database
+accounts.db
+*.db
+
+# Plots (generated artefacts)
+data/*.png
+
+# OS
+.DS_Store

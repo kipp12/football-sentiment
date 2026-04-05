@@ -1,0 +1,8 @@
+twscrape
+pandas
+torch
+transformers
+scipy
+matplotlib
+seaborn
+jupyter
